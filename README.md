@@ -1,3 +1,2 @@
 # practice-repository
-
-Hello World! this is a practice on the introduction to open source 
+This is Repository is made for material UI Tutorial
